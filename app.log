@@ -1,0 +1,6 @@
+2024-08-03 14:23:21,851:INFO:Data loaded successfully from data/admission.csv
+2024-08-03 14:23:21,853:INFO:Data preprocessed successfully
+2024-08-03 14:23:39,723:INFO:Model accuracy: 0.88
+2024-08-03 14:32:19,418:INFO:Data loaded successfully from data/admission.csv
+2024-08-03 14:32:19,419:INFO:Data preprocessed successfully
+2024-08-03 14:32:34,946:INFO:Model accuracy: 0.88
